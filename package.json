@@ -1,0 +1,17 @@
+{
+  "name": "Ghibli",
+  "version": "1.0.0",
+  "description": "My project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.ts"
+  },
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.21.1",
+    "graphql": "^16.6.0",
+    "apollo-server-express": "^3.7.2",
+    "apollo-server-core": "^3.7.2"
+  }
+}
